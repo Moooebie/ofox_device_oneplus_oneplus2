@@ -1,0 +1,8 @@
+export OF_VANILLA_BUILD=0
+export OF_USE_TWRP_SAR_DETECT=1
+export OF_VERSION=R11.1_Beta_4
+export OF_MAINTAINER=Missignal_Dev
+export ALLOW_MISSING_DEPENDENCIES=true
+export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
+export LC_ALL="C"
+echo Configs loaded. 
